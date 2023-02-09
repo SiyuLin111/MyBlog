@@ -24,7 +24,7 @@ menu:
       url: "/Research/"
       weight: 3
     - name: "Learning Resources"
-      url: "/Learning Resources/"
+      url: "/Learning Resources/Learning Resources/"
       weight: 4
 
 params:
