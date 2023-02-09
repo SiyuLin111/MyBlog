@@ -1,9 +1,3 @@
----
-title: Learning Resources
-date: '2023-02-10'
-slug: learning resources
----
-
 ## Helpful websites
 ### Websites at ShanghaiTech
 - [Egate](https://egate.shanghaitech.edu.cn/).
@@ -18,5 +12,5 @@ slug: learning resources
 ### Research
 - [Sci-hub](https://sci-hub.ren/)
 - [Web of Science](https://www.webofscience.com/wos/woscc/basic-search)
-- 
+- [Google Scholar](https://scholar.google.com/)
 
