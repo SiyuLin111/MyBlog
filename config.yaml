@@ -18,10 +18,10 @@ menu:
       url: "/"
       weight: 1
     - name: "About"
-      url: "/about/"
+      url: "/about_me/"
       weight: 2
     - name: "Research"
-      url: "/categories/"
+      url: "/Research/"
       weight: 3
     - name: "Learning Resources"
       url: "/Learning Resources/"
