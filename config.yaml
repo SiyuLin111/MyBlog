@@ -1,6 +1,6 @@
 baseurl: /
 languageCode: en-us
-title: Siyu Lin
+title: "Siyu Lin"
 theme: "hugo-ivy"
 googleAnalytics: ""
 disqusShortname: ""
@@ -20,14 +20,12 @@ menu:
     - name: "About"
       url: "/about/"
       weight: 2
-    - name: "Categories"
+    - name: "Research"
       url: "/categories/"
       weight: 3
-    - name: "Tags"
-      url: "/tags/"
+    - name: "Learning Resources"
+      url: "/Learning Resources/"
       weight: 4
-    - name: "Subscribe"
-      url: "/index.xml"
 
 params:
   description: "Siyu Lin's personal website."
