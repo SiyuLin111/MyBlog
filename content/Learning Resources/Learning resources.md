@@ -1,3 +1,9 @@
+---
+title: Learning Resources
+date: '2023-02-10'
+slug: learning resources
+---
+
 ## Helpful websites
 ### Websites at ShanghaiTech
 - [Egate](https://egate.shanghaitech.edu.cn/).
