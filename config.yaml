@@ -1,4 +1,4 @@
-baseurl: "https://siyulin.netlify.app/"
+baseurl: "/"
 languageCode: en-us
 title: "Siyu Lin"
 theme: "hugo-ivy"
