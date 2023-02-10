@@ -18,7 +18,7 @@ menu:
       url: "/"
       weight: 1
     - name: "About Me"
-      url: "/about_me/"
+      url: "/_about_me/"
       weight: 2
     - name: "Research"
       url: "/Research/"
