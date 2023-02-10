@@ -31,7 +31,8 @@
 
 ## Other
 - [ChatGPT](https://chat.openai.com/chat).
-- 
+- [DeepL Translator](https://www.deepl.com/translator).
+- [LaTex Live](https://www.latexlive.com/).
 
 
 
