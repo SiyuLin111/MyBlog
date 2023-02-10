@@ -1,6 +1,7 @@
 # Lecture and Tutorial Notes
 - [General Chemistry I (CHEM1103)](/learning-resources/chem1103/chem1103/)
 - [Spectroscopy (CHEM2231)](/learning-resources/chem2231/chem2231/)
+- You may find some other useful notes concerning computer science [here](https://github.com/Z7Gao).
 
 # Helpful websites
 ## ShanghaiTech
