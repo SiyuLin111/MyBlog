@@ -1,7 +1,7 @@
 # Lecture and Tutorial Notes
 - [General Chemistry I (CHEM1103)](/learning-resources/chem1103/chem1103/)
 - [Spectroscopy (CHEM2231)](/learning-resources/chem2231/chem2231/)
-- You may find some other useful notes concerning computer science [here](https://github.com/Z7Gao).
+- You may find some other useful notes concerning computer science [here](https://github.com/Z7Gao) by Ziqi Gao.
 
 # Helpful websites
 ## ShanghaiTech
@@ -27,6 +27,11 @@
 - [pKa table](https://organicchemistrydata.org/hansreich/resources/pka/)
 - [Spectral Database of Organic Compound](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi).
 - [Reaxys](https://www.reaxys.com/#/login). Organic reaction condition, spectral speaks.
+- [XAFS intro](https://twocircles24.com/archives/).
+
+## Other
+- [ChatGPT](https://chat.openai.com/chat).
+- 
 
 
 
