@@ -1,5 +1,9 @@
+# Tutorial Notes
+- [General Chemistry I (CHEM1103)](/learning-resources/chem1103/chem1103/)
+- [Spectroscopy (CHEM2231)]()
+
 # Helpful websites
-## Websites at ShanghaiTech
+## ShanghaiTech
 - [Egate](https://egate.shanghaitech.edu.cn/).
 - [Blackboard](https://elearning.shanghaitech.edu.cn/).
 - [Eshare](https://eshare.shanghaitech.edu.cn/).
