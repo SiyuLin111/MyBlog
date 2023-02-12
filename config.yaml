@@ -18,13 +18,13 @@ menu:
       url: "/"
       weight: 1
     - name: "About Me"
-      url: "/_about_me/"
+      url: "/about/"
       weight: 2
     - name: "Research"
-      url: "/research/research/"
+      url: "/research/"
       weight: 3
     - name: "Learning Resources"
-      url: "/Learning Resources/Learning Resources/"
+      url: "/learning-resources/"
       weight: 4
 
 params:

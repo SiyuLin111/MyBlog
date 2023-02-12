@@ -1,14 +1,13 @@
 # Lecture and Tutorial Notes
-- [General Chemistry I (CHEM 1103)](/learning-resources/chem1103/chem1103/)
+- [General Chemistry I (CHEM 1103)](/chem1103/)
 - [Organic Chemistry (CHEM 1331&1321)](https://www.jianguoyun.com/p/Dc23nEQQ27GwCxiYjPUEIAA)
 - [Advanced Organic Chemistry(CHEM 2107)](https://archive.org/details/evans-d.-a.-myers-a.-g.-advanced-organic-chemistry-lecture-notes-problem-sets-an/page/n7/mode/2up)
 - [Inorganic Chemistry (CHEM 1301)](/files/inorganic_chemistry.pdf)
 - [Physical Chemistry and Structural Chemistry (CHEM 1361&1351)](/files/physical_chemistry.pdf)
 - [Biochemistry (CHEM 341)](/files/biochem_final.pdf)
 - [Nanomaterials (MSE 1309)](/files/nanomaterials.pdf)
-- [Spectroscopy (CHEM 2231)](/learning-resources/chem2231/chem2231/)
+- [Spectroscopy (CHEM 2231)](/chem2231/)
 - You may find some other useful notes concerning computer science [here](https://github.com/Z7Gao) by Ziqi Gao.
-
 # Helpful websites
 ## ShanghaiTech
 - [Egate](https://egate.shanghaitech.edu.cn/).
