@@ -7,6 +7,8 @@
 - [Biochemistry (CHEM 341)](/files/biochem_final.pdf)
 - [Nanomaterials (MSE 1309)](/files/nanomaterials.pdf)
 - [Spectroscopy (CHEM 2231)](/chem2231/)
+- [Introduction to Economics (ECON1001)](/files/ECON1001.zip)
+- [Information Retrieval and Utilization (GE 1003)](/files/ge1003.pdf)
 - You may find some other useful notes concerning computer science [here](https://github.com/Z7Gao) by Ziqi Gao.
 # Helpful websites
 ## ShanghaiTech
